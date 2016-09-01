@@ -1,0 +1,2 @@
+python3 /usr/share/java-utils/pom_editor.py pom_remove_parent
+python3 /usr/share/java-utils/pom_editor.py pom_remove_plugin  org.codehaus.mojo:animal-sniffer-maven-plugin
