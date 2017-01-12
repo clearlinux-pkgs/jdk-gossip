@@ -4,7 +4,7 @@
 #
 Name     : jdk-gossip
 Version  : 2.0.0
-Release  : 1
+Release  : 2
 URL      : http://github.com/jdillon/gossip/archive/release-2.0.0.tar.gz
 Source0  : http://github.com/jdillon/gossip/archive/release-2.0.0.tar.gz
 Summary  : No detailed summary available
